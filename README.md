@@ -80,8 +80,8 @@ Upload EICAR file → Expected result: Malicious
 
 ## ▶️ Run Locally
 
-git clone https://github.com/your-username/malware-gateway.git  
-cd malware-gateway  
+git clone https://github.com/Shyamanth-Besetty/Secure-File-Ingestion-Gateway
+cd Secure-File-Ingestion-Gateway  
 pip install -r requirements.txt  
 uvicorn main:app --reload  
 
