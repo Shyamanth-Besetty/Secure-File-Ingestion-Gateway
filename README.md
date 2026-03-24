@@ -87,7 +87,7 @@ uvicorn main:app --reload
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Shyamanth Besetty**  
 AI | Cybersecurity | Systems Design  
