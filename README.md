@@ -89,11 +89,12 @@ uvicorn main:app --reload
 
 ## 👨‍💻 Author
 
-Shyamanth Besetty
-AI | Cybersecurity | Systems Design
+**Shyamanth Besetty**  
+AI | Cybersecurity | Systems Design  
 
-Parvesh Katoch 
-Cloud Security | Cyber Threat Intelligence | OSINT | Threat Hunter | Incident Response | DevSecOps 
+
+**Parvesh Katoch**  
+Cloud Security | Cyber Threat Intelligence | OSINT | Threat Hunter | Incident Response | DevSecOps  
 
 ---
 
